@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+requests
+langgraph
+langchain-core
+neo4j
+pydantic
+python-dotenv
+PyGithub
+langchain-google-genai
